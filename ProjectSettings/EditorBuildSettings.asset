@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FlyOver.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/FlyUnder.unity
+    guid: 4f279350a92783c4dbab44df1618bed9
+  - enabled: 1
+    path: Assets/Scenes/MovingObstacles.unity
+    guid: ca591f94fa92c3c4b80daa3bfeb24596
+  - enabled: 1
+    path: Assets/Scenes/temp.unity
+    guid: 941220e4c2938a0468ae329bb07d8b3b
+  - enabled: 1
+    path: Assets/Scenes/TheCave.unity
+    guid: 9b7ad7a6b37f119449b724bd97d18fbe
+  m_configObjects: {}
